@@ -1,4 +1,4 @@
-# projeto-site
+# projeto relembrar
 Relembrando programação web - Remember web development
 
 The langueages/frameworks I'm using/pretend to use:
